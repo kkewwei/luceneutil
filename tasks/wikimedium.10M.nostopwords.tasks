@@ -17481,3 +17481,11 @@ BM25MSM2: http first were +minShouldMatch=2
 BM25MSM2: from his new +minShouldMatch=2
 BM25MSM2: name cite he +minShouldMatch=2
 BM25MSM2: title date which +minShouldMatch=2
+SubHalfIntNRQ: nrq//timesecnum 0 10000
+SubHalfIntNRQ: nrq//timesecnum 10000 20000
+SubHalfIntNRQ: nrq//timesecnum 20000 30000
+SubHalfIntNRQ: nrq//timesecnum 30000 40000
+SubHalfIntNRQ: nrq//timesecnum 40000 50000
+SubHalfIntNRQ: nrq//timesecnum 50000 60000
+SubHalfIntNRQ: nrq//timesecnum 60000 70000
+SubHalfIntNRQ: nrq//timesecnum 70000 80000
