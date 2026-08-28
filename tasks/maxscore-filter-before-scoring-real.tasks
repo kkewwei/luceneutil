@@ -1,0 +1,8 @@
+MSBSControl: the and
+MSBSFilter1: the and +filter=1%
+MSBSFilter5: the and +filter=5%
+MSBSFilter10: the and +filter=10%
+MSBSFilter20: the and +filter=20%
+MSBSFilter33: the and +filter=33%
+MSBSFilter50: the and +filter=50%
+MSBSFilter100: the and +filter=100%
