@@ -67,13 +67,13 @@ if PYTHON_MAJOR_VER < 3:
   raise RuntimeError("Please run with Python 3.x!  Got: %s" % str(sys.version))
 
 # Skip the first N runs of a given category (cold) or particular task (hot):
-WARM_SKIP = 3
+WARM_SKIP = 100
 
 # Skip this pctg of the slowest runs:
 SLOW_SKIP_PCT = 10
 
 # Disregard first N seconds of query tasks for computing avg QPS:
-DISCARD_QPS_WARMUP_SEC = 5
+DISCARD_QPS_WARMUP_SEC = 10
 
 # From the N times we run each task in a single JVM, how do we pick
 # the single QPS to represent those results:

@@ -1,0 +1,8 @@
+# Dense prohibited
+ReqExclDense3TopN: +the -of -in -and
+ReqExclDense7TopN: +the -of -in -and -a -to -for -on
+ReqExclDense11TopN: +the -of -in -and -a -to -for -on -is -as -by -ref
+ReqExclDense16TopN: +the -of -in -and -a -to -for -on -is -as -by -ref -was -with -http -from -that
+
+# Sparse prohibited.
+ReqExclSparse1TopN: +the -attorney
