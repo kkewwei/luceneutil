@@ -17481,3 +17481,5 @@ BM25MSM2: http first were +minShouldMatch=2
 BM25MSM2: from his new +minShouldMatch=2
 BM25MSM2: name cite he +minShouldMatch=2
 BM25MSM2: title date which +minShouldMatch=2
+MostNotLowHigh: +rivers -ref -http -from -name -title # reqFreq=37916 prohibitedFreqs=3793973,3493581,3224339,2827713,2397378
+MostNotLowHigh: +sequence -date -which -also -first -his # reqFreq=37911 prohibitedFreqs=2020626,1963428,1959419,1933372,1777780
